@@ -1,25 +1,25 @@
-# 🎵 Music Data Analysis Project
+ Music Data Analysis Project
 
-## 📌 Overview
+##  Overview
 
 This project focuses on analyzing a music store database using SQL to extract meaningful business insights related to customer behavior, revenue trends, and music preferences. The analysis is performed on multiple interconnected tables such as customers, invoices, tracks, albums, artists, and genres.
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The primary objective of this project is to solve real-world business questions using SQL and derive actionable insights that can help in decision-making for marketing, customer targeting, and revenue optimization.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * SQL Server (SSMS)
 * SQL (Joins, CTEs, Subqueries, Aggregations, Window Functions)
 
 ---
 
-## 📊 Key Business Questions Solved
+## Key Business Questions Solved
 
 The project addresses multiple analytical problems, including:
 
@@ -37,7 +37,7 @@ The project addresses multiple analytical problems, including:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 * A small segment of customers contributes significantly to overall revenue
 * Certain countries and cities dominate invoice generation
@@ -47,7 +47,7 @@ The project addresses multiple analytical problems, including:
 
 ---
 
-## 🧠 SQL Concepts Applied
+## SQL Concepts Applied
 
 * INNER JOIN (multi-table joins)
 * GROUP BY & Aggregations (SUM, COUNT, AVG)
@@ -57,7 +57,7 @@ The project addresses multiple analytical problems, including:
 
 ---
 
-## 📈 Outcome
+## Outcome
 
 This project demonstrates the ability to:
 
@@ -68,7 +68,7 @@ This project demonstrates the ability to:
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 * Build an interactive dashboard using Power BI
 * Add advanced analytics (customer segmentation, churn analysis)
